@@ -1,4 +1,4 @@
-name: Build Mihomo ipk
+name: Build Mihomo ipk 24.10
 
 on:
   workflow_dispatch:
